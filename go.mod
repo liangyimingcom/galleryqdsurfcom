@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/liangyimingcom/galleryqdsurfcom
 
 go 1.19
 
